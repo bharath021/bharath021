@@ -181,10 +181,7 @@ A unified web platform connecting students, clients, and instructors for seamles
 - Firebase & JWT security
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat&logo=github)](https://github.com/bharath021/capstone-hub)
-[![Live Demo](https://bharath021.github.io/capstone-hub)
-](https://creative-expression-production.up.railway.app/
-)]([https://bharath021.github.io/capstone-hub)
-](https://creative-expression-production.up.railway.app/)
+[![Live Demo]
 </td>
 <td width="50%">
 
