@@ -161,12 +161,29 @@ const bharath = {
 + Collaborated in Agile teams
 ```
 
------
+---------
 
 ## 🏆 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
+
+### 🎓 [Capstone Hub - Project Management Platform](https://github.com/bharath021/capstone-hub)
+**Tech Stack:** React • Node.js • Firebase • JWT • MongoDB
+
+A unified web platform connecting students, clients, and instructors for seamless capstone project management with algorithmic team assignments and real-time tracking.
+
+**Key Features:**
+- Auto-assign algorithm for teams
+- Multi-role authentication (Students/Clients/Instructors)
+- Real-time project tracking
+- Firebase & JWT security
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat&logo=github)](https://github.com/bharath021/capstone-hub)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat&logo=vercel)](https://bharath021.github.io/capstone-hub)
+
+</td>
 <td width="50%">
 
 ### 🚗 [3D Smart Parking Automation](https://github.com/bharath021/3d-parking-automation-)
@@ -183,8 +200,9 @@ A full 3D Smart Parking Automation system featuring multi-level parking layout, 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat&logo=github)](https://github.com/bharath021/3d-parking-automation-)
 
 </td>
-<td width="50%">
-</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🎮 [Interactive JavaScript Game](https://github.com/bharath021/game-project)
@@ -202,7 +220,7 @@ An engaging browser-based game built with vanilla JavaScript featuring smooth an
 [![Play](https://img.shields.io/badge/Play_Now-FF6B6B?style=flat&logo=gamepad)](https://bharath021.github.io/game-project)
 
 </td>
-</tr>
+<td width="50%">
 
 ### ☁️ [Cloud-Based Data Engineering Dashboard](https://github.com/bharath021/Cloud-Based-Data-Engineering-Dashboard)
 **Tech Stack:** FastAPI • React • AWS
@@ -262,7 +280,7 @@ Administrative portal built with modern web technologies for managing academic r
   </a>
 </p>
 
--------------
+----------------
 
 ## 🎓 Education & Certifications
 
