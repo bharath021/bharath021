@@ -184,8 +184,6 @@ A full 3D Smart Parking Automation system featuring multi-level parking layout, 
 
 </td>
 <td width="50%">
-automation-)
-
 </td>
 <td width="50%">
 
