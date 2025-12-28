@@ -184,6 +184,27 @@ A full 3D Smart Parking Automation system featuring multi-level parking layout, 
 
 </td>
 <td width="50%">
+automation-)
+
+</td>
+<td width="50%">
+
+### 🎮 [Interactive JavaScript Game](https://github.com/bharath021/game-project)
+**Tech Stack:** JavaScript • HTML5 Canvas • CSS3
+
+An engaging browser-based game built with vanilla JavaScript featuring smooth animations, collision detection, and responsive controls.
+
+**Key Features:**
+- HTML5 Canvas rendering
+- Smooth game mechanics
+- Score tracking system
+- Responsive design
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=flat&logo=github)](https://github.com/bharath021/game-project)
+[![Play](https://img.shields.io/badge/Play_Now-FF6B6B?style=flat&logo=gamepad)](https://bharath021.github.io/game-project)
+
+</td>
+</tr>
 
 ### ☁️ [Cloud-Based Data Engineering Dashboard](https://github.com/bharath021/Cloud-Based-Data-Engineering-Dashboard)
 **Tech Stack:** FastAPI • React • AWS
