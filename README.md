@@ -309,15 +309,6 @@ class CurrentFocus:
 ```
 -----------
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharath021&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
---------
-
-
 ## 🎯 2025 Goals
 
 - [ ] Complete Master’s in Computer Science
