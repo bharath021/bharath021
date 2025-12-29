@@ -308,6 +308,87 @@ class CurrentFocus:
         return ["Java", "Spring Boot", "React", "AWS", "System Design", "Microservices"]
 ```
 -----------
+---
+
+## 📚 Graduate Coursework
+
+<details>
+<summary><b>🔐 Security & Cryptography</b></summary>
+<br>
+
+| Course Code | Course Name | Grade | Key Topics |
+|-------------|-------------|-------|------------|
+| **CS 613** | Applied Cryptography | A | Encryption algorithms, Public-key cryptography, Digital signatures, Blockchain security |
+| **CS 642** | Cybersecurity in IoT | A | IoT security protocols, Network security, Threat modeling, Secure device communication |
+
+</details>
+
+<details>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+<br>
+
+| Course Code | Course Name | Grade | Key Topics |
+|-------------|-------------|-------|------------|
+| **CS 670** | Artificial Intelligence | A | Search algorithms, Knowledge representation, Expert systems, Neural networks |
+| **CS 671** | Machine Learning | A | Supervised/Unsupervised learning, Deep learning, Model evaluation, Feature engineering |
+| **CS 638** | Applied Machine Learning | A | Real-world ML applications, Data preprocessing, Model deployment, Production ML |
+
+</details>
+
+<details>
+<summary><b>💾 Database Systems & Development</b></summary>
+<br>
+
+| Course Code | Course Name | Grade | Key Topics |
+|-------------|-------------|-------|------------|
+| **CS 630** | Database Management Systems | A | RDBMS concepts, SQL, Normalization, Transaction management, Query optimization |
+| **CS 636** | Database Application Development | A | Database design, Stored procedures, Triggers, Application integration |
+| **CS 637** | Database-Backed Websites | A | Web-database integration, ORMs, REST APIs, Full-stack development |
+
+</details>
+
+<details>
+<summary><b>💻 Software Engineering & Development</b></summary>
+<br>
+
+| Course Code | Course Name | Grade | Key Topics |
+|-------------|-------------|-------|------------|
+| **CS 680** | Object-Oriented Design & Programming | A | OOP principles, Design patterns, SOLID principles, UML diagrams |
+| **CS 681** | Object-Oriented Software Development | A | Software architecture, Agile methodologies, Code quality, Refactoring |
+| **CS 682** | Software Development Laboratory I | A | Hands-on development, Team collaboration, Version control, CI/CD |
+
+</details>
+
+<details>
+<summary><b>⚙️ Theory & Algorithms</b></summary>
+<br>
+
+| Course Code | Course Name | Grade | Key Topics |
+|-------------|-------------|-------|------------|
+| **CS 620** | Theory of Computation | A | Automata theory, Turing machines, Computability, Complexity classes |
+| **CS 622** | Theory of Formal Languages | A | Regular expressions, Context-free grammars, Parsing, Language hierarchies |
+| **CS 624** | Analysis of Algorithms | A | Algorithm design, Time/Space complexity, Dynamic programming, Graph algorithms |
+| **CS 651** | Compiler Design | A | Lexical analysis, Parsing techniques, Code generation, Optimization |
+
+</details>
+
+<details>
+<summary><b>🎨 Design & User Experience</b></summary>
+<br>
+
+| Course Code | Course Name | Grade | Key Topics |
+|-------------|-------------|-------|------------|
+| **CS 615** | User Interface Design | A | UI/UX principles, Human-computer interaction, Prototyping, Usability testing |
+
+</details>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Courses-16-blue?style=for-the-badge" alt="Total Courses" />
+  <img src="https://img.shields.io/badge/GPA-4.0-brightgreen?style=for-the-badge" alt="GPA" />
+  <img src="https://img.shields.io/badge/Specialization-Software_Engineering-orange?style=for-the-badge" alt="Specialization" />
+</p>
+
+---
 
 ## 🎯 2025 Goals
 
