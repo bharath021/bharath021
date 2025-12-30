@@ -390,7 +390,7 @@ class CurrentFocus:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Complete Master’s in Computer Science
 - [ ] Contribute to 5+ open source projects
